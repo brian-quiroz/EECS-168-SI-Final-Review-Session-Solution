@@ -1,0 +1,7 @@
+5
+myEmail@socialmedia.com password Spongebob 20
+emailAddresss@socialmedia.com 12345 Patrick 15
+badEmail@socialmedia.com insecurePassword Squidward 40
+UserEmail@socialmedia.com 54321 Gary 23
+runningOutOfEmailNames@socialmedia.com abcde Plankton 32
+
