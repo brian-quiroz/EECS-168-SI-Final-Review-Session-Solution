@@ -12,7 +12,7 @@ char* reverse(char* arr, int& size) {
 }
 
 int main() {
-	int size = 7; //This is a correction, this was supposed to be 7.
+	int size = 7; //This is a correction, this was supposed to be 7 (originally it was 0).
 	string myStr = "kwahyaj";
 	char* myArr = new char[size];
 	char* myOtherArr = nullptr;
