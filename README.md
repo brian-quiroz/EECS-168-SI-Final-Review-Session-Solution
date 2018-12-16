@@ -5,7 +5,7 @@ The solutions to the Code Writing problems (along with some extra files provided
 <br/>
 The solutions to the Code Tracing problems are available under the "CodeTracing" folder. These are also available in the solutions PDF.
 <br/>
-A Word and PDF version of both the questions themselves and solutions to all the problems except code writing are available under the "PracticeProblemsAndSolutions" folder.
+A PDF version of both the questions themselves and solutions to all the problems except code writing are available under the "PracticeProblemsAndSolutions" folder.
 <br/>
 Feel free to clone/fork/copy/reuse the repository if you wish to.
 <br/>
